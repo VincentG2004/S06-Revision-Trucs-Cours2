@@ -461,6 +461,144 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1066371274
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1066371276}
+  - component: {fileID: 1066371275}
+  m_Layer: 0
+  m_Name: CreationMonnaieBronze
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1066371275
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066371274}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13bc0e9f43cf31346a683e2d24915992, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _prefabOriginal: {fileID: 3032720088771147373, guid: ecaf5e2775b23f842b823f1394f2e37b,
+    type: 3}
+--- !u!4 &1066371276
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1066371274}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.27, y: 3, z: -3}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1188710344
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1188710346}
+  - component: {fileID: 1188710345}
+  m_Layer: 0
+  m_Name: CreationMonnaieBronze (2)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1188710345
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1188710344}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13bc0e9f43cf31346a683e2d24915992, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _prefabOriginal: {fileID: 3032720088771147373, guid: ecaf5e2775b23f842b823f1394f2e37b,
+    type: 3}
+--- !u!4 &1188710346
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1188710344}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.08, y: 1.53, z: -1.314}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &1250953557
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1250953559}
+  - component: {fileID: 1250953558}
+  m_Layer: 0
+  m_Name: CreationMonnaieBronze (1)
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1250953558
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1250953557}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13bc0e9f43cf31346a683e2d24915992, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _prefabOriginal: {fileID: 3032720088771147373, guid: ecaf5e2775b23f842b823f1394f2e37b,
+    type: 3}
+--- !u!4 &1250953559
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1250953557}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.27, y: 2.435, z: -1.416}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1280523173
 GameObject:
   m_ObjectHideFlags: 0
@@ -505,9 +643,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d7db4af227a39ef4cae5ee447a5bec1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _positionCreation: {x: 2, y: 3, z: -3}
   _prefabOriginal: {fileID: 3487728068694843571, guid: d846fccbc8874b24382e046534edf2ec,
     type: 3}
+  _positionCreation: {x: 0.9, y: 3.5, z: -3.2}
 --- !u!1 &1841691543
 GameObject:
   m_ObjectHideFlags: 0
@@ -948,7 +1086,7 @@ PrefabInstance:
     - target: {fileID: 3471700514859276998, guid: d846fccbc8874b24382e046534edf2ec,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.541
+      value: 2.2051
       objectReference: {fileID: 0}
     - target: {fileID: 3471700514859276998, guid: d846fccbc8874b24382e046534edf2ec,
         type: 3}
@@ -1010,3 +1148,6 @@ SceneRoots:
   - {fileID: 392112121}
   - {fileID: 7487546226950626326}
   - {fileID: 1280523174}
+  - {fileID: 1066371276}
+  - {fileID: 1250953559}
+  - {fileID: 1188710346}
